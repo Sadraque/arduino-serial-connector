@@ -1,2 +1,2 @@
 # arduinoSerialConector
-A simple class to connect to the Serial communication of  the Arduino
+A simple class using Processing IDE to connect to the Serial communication of  the Arduino
